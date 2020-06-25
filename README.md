@@ -38,4 +38,5 @@ Feel free to push PR so that we can make the list event better!
 * Chella Man [@chellaman](https://www.instagram.com/chellaman/?hl=en) - YouTuber, Actor, Model, Artist and Activist
 * ALOK Vaid-Menon [@alokvmenon](https://www.instagram.com/chellaman/?hl=en) - Performance Artist, Poet and LGBTQ Rights Activist
 * Sharice Davids [@repdavids](https://www.instagram.com/repdavids/?hl=en) - Lawyer, Former Mixed Martial Artist and Politician
-
+* Francesc Campoy [@frances](https://twitter.com/francesc) - Engineering Manager at Apple and Host of the Go language Podcast justforfunc 
+* Laura Laban - [@lauraviatrix](https://twitter.com/lauraviatrix) - Co-founder & CEO at Infinite Flight, the most popular flight simulation on mobile devices 
