@@ -30,7 +30,7 @@ Feel free to push PR so that we can make the list event better!
 **Movies**
 * [Moonlight](https://www.rottentomatoes.com/m/moonlight_2016)
 * [Call me by your name](https://www.rottentomatoes.com/m/call_me_by_your_name)
-* [Disclosure (Netflix)](https://www.netflix.com/title/81284247)
+* [Disclosure] (Netflix)](https://www.netflix.com/title/81284247)
 
 **Social media to follow**
 * [@lgbt_history](https://www.instagram.com/lgbt_history/?hl=en)
@@ -41,4 +41,4 @@ Feel free to push PR so that we can make the list event better!
 * Sharice Davids [@repdavids](https://www.instagram.com/repdavids/?hl=en) - Lawyer, Former Mixed Martial Artist and Politician
 * Francesc Campoy [@frances](https://twitter.com/francesc) - Engineering Manager at Apple and Host of the Go language Podcast justforfunc 
 * Laura Laban - [@lauraviatrix](https://twitter.com/lauraviatrix) - Co-founder & CEO at Infinite Flight, the most popular flight simulation on mobile devices 
-* Claire Novotny [@clairenovotny](https://twitter.com/clairernovotny) - PM at Microsoft (.NET)
+* Claire Novotny - [@clairenovotny](https://twitter.com/clairernovotny) - PM at Microsoft (.NET)
