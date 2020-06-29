@@ -1,10 +1,10 @@
-# Ressources about Pride and the LGBTQ community 🏳️‍🌈
+# Ressources about Pride and the LGBTQ+ community 🏳️‍🌈
 
 Because sometimes, you don't know, what you just don't know, the Holberton community has put together a list of resources to learn more about the LGBTQ+ community. The list contains books, podcasts, movies and people to follow so that you can learn with the media that works best for you!
 
 Feel free to push PR so that we can make the list event better!
 
-[Terminology](https://www.forbes.com/sites/jamiewareham/2020/12/30/should-you-put-pronouns-in-email-signatures-and-social-media-bios/#6159498b6320) you should know
+[Why and how to use pronouns](https://www.forbes.com/sites/jamiewareham/2020/12/30/should-you-put-pronouns-in-email-signatures-and-social-media-bios/#6159498b6320)
 
 **Podcast**
 * [Nancy](https://www.wnycstudios.org/podcasts/nancy) - Stories and conversations about the queer experience today. Prepare to laugh and cry and laugh again.
@@ -21,7 +21,7 @@ Feel free to push PR so that we can make the list event better!
 
 
 **Scholar talks** 
-* [Becoming Him](https://www.youtube.com/watch?v=M6vgidU8S3E)- Chella Man
+* [Becoming Him](https://www.youtube.com/watch?v=M6vgidU8S3E) - Chella Man
 * [I’ve lived as a man and a women, here’s what I learned](https://www.youtube.com/watch?v=lrYx7HaUlMY) - Paula Stone Williams 
 * [And more recently, what i realized about men - after i transitioned genders](https://www.youtube.com/watch?v=edLQdf4o0cg) - Paula Stone Williams
 * [What is LGBT life like around the world](https://www.ted.com/talks/jenni_chang_and_lisa_dazols_this_is_what_lgbt_life_is_like_around_the_world?language=en)
@@ -30,7 +30,7 @@ Feel free to push PR so that we can make the list event better!
 **Movies**
 * [Moonlight](https://www.rottentomatoes.com/m/moonlight_2016)
 * [Call me by your name](https://www.rottentomatoes.com/m/call_me_by_your_name)
-* [Disclosure] (Netflix)](https://www.netflix.com/title/81284247)
+* [Disclosure](https://www.netflix.com/title/81284247)
 
 **Social media to follow**
 * [@lgbt_history](https://www.instagram.com/lgbt_history/?hl=en)
